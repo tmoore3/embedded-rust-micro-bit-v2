@@ -1,5 +1,5 @@
 [package]
-name = "embedded-rust-micro-bit-v2"
+name = "rust-micro-bit-v2"
 version = "0.1.0"
 edition = "2021"
 
